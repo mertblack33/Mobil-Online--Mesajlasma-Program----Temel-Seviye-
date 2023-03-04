@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496950321715",
+    "project_id": "mymessange-b5335",
+    "storage_bucket": "mymessange-b5335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496950321715:android:c953afe6c964dd638e3946",
+        "android_client_info": {
+          "package_name": "com.mert.mymessange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496950321715-5cv1leumqlvsb5jshit78alc5hs2s705.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKu_5Qgx-4rtRi7quR_93vwCzbrwPNpUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496950321715-5cv1leumqlvsb5jshit78alc5hs2s705.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
